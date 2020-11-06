@@ -1,0 +1,45 @@
+.active{
+    background-color: dodgerblue;
+    box-shadow: 0 10px 10px -10px #333 inset;
+}
+
+label{
+    //font-weight: bold;
+    font-size: 100%;
+    color: #8c8b8b;
+}
+input[type=submit] {
+    width: 30%;
+}
+table.form1{
+    //border-radius: 10px;
+    //border-style: groove;
+    //border-color: #333;
+    box-shadow: 0 10px 10px -10px #8c8b8b inset;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: deepskyblue;
+  position: fixed;
+  top: 2%;
+  width: 99%;
+  border-radius: 2px;
+  box-shadow: 0 10px 10px -10px #333 inset;
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  
+}
+
+.navbar a:hover {
+   background-color: dodgerblue; 
+   box-shadow: 0 10px 10px -10px #333 inset;
+}
